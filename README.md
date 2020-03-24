@@ -1,6 +1,5 @@
 # Installerv1
-Tools Installer
-example :
+
 pkg install python
 pkg install git
 pkg install python2
